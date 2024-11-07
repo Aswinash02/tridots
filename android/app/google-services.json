@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13442371186",
+    "project_id": "tridots-a114c",
+    "storage_bucket": "tridots-a114c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13442371186:android:2a71cc512412ce23edfceb",
+        "android_client_info": {
+          "package_name": "com.example.tridots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfyaKnbKbN94OUKRXh3nNYVa4VxrzUU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
